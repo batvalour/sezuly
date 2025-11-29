@@ -57,7 +57,7 @@ const Landing = () => {
       <footer className="absolute w-full bottom-0 left-0 flex justify-center">
         <a
           target="_blank"
-          href="https://github.com/aryan-mehrabi/listen-together"
+          href="https://github.com/rememberfloky"
           rel="noreferrer"
           className="text-2xl mx-4 my-4 p-1"
         >
@@ -65,14 +65,14 @@ const Landing = () => {
         </a>
         <a
           target="_blank"
-          href="https://www.linkedin.com/in/aryan-mehrabi/"
+          href="https://www.linkedin.com/in/kishandsu/"
           rel="noreferrer"
           className="text-2xl mx-4 my-4 p-1"
         >
           <BiLogoLinkedinSquare />
         </a>
         <a
-          href="mailto:aryan.me77@yahoo.com"
+          href="mailto:rearcane@proton.me"
           className="text-2xl mx-4 my-4 p-1"
         >
           <BiSolidEnvelope />
