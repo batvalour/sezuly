@@ -10,7 +10,7 @@ import Input from "components/Input";
 import { BiX } from "react-icons/bi";
 
 const SearchMusic = () => {
-  const [searchTerm, setSearchTerm] = useState("");
+  const [searchTerm, setSearchTerm] = useState("Hindi Old Songs");
   const ref = useRef(null);
   const isVisible = useIntersection(ref);
   const debouncedTerm = useDebouncing(searchTerm, 1000);
